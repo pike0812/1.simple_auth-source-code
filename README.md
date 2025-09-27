@@ -11,9 +11,21 @@ Hint to add authorization field in request header
 --------cookie_auth.js
 1. login đúng
 <img width="1901" height="1036" alt="image" src="https://github.com/user-attachments/assets/e7c546eb-ed0b-49ed-a387-a886441e85ce" />
+
 2. login sai
-<img width="1903" height="1042" alt="image" src="https://github.com/user-attachments/assets/8dadb60a-bddc-4b66-8f56-1a48a65354d1" />
-3. 
+<img width="1305" height="765" alt="image" src="https://github.com/user-attachments/assets/9b40316c-a8b8-47ad-8d3d-bf8cd8c54f3b" />
+
+3. profile sau khi login
+<img width="1303" height="782" alt="image" src="https://github.com/user-attachments/assets/84c592a2-406f-4c00-9e11-30af00dea3d3" />
+
+4. profile chưa login
+   <img width="1310" height="772" alt="image" src="https://github.com/user-attachments/assets/6e77077c-25cb-4175-bb50-4d629628c387" />
+5. log out
+   <img width="1299" height="779" alt="image" src="https://github.com/user-attachments/assets/74e65815-a8c9-47f2-8906-123ab803863c" />
+Mon_goDB
+<img width="1311" height="580" alt="image" src="https://github.com/user-attachments/assets/4ab5b39f-d082-4a88-81f4-eb9edc083cf6" />
+
+
 
 
    
